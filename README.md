@@ -13,10 +13,8 @@ This project is generated with the [create-solana-dapp](https://github.com/solan
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/hardworking-toptal-dev/dust.git
 ```
-
 #### Install Dependencies
 
 ```shell
@@ -31,20 +29,12 @@ npm run dev
 
 ## Apps
 
-### web
+This project runs at [here](https://dust-cyan.vercel.app)
 
-This is a React app.
+![image](https://github.com/user-attachments/assets/acb3ccd2-2635-47d4-bdba-06a23599df9b)
 
-#### Commands
+Also, this dapp supports multiple wallets using solana-wallet-adapter
 
-Start the web app
+![image](https://github.com/user-attachments/assets/8e92877b-7fea-4a92-97cf-525b10d366af)
 
-```shell
-npm run dev
-```
 
-Build the web app
-
-```shell
-npm run build
-```
